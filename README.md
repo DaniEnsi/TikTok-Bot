@@ -12,6 +12,7 @@ Python script to automate the TikTok Account botting using zefoys website ```zef
 ## :fire: Features
 
 ✔ Bot TikTok Followers, Likes, Views, Shares
+
 ✔ No Setup needed
 
 ## 🎉・Upcoming/enhancements
