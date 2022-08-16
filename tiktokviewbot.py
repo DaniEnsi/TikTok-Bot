@@ -1,16 +1,21 @@
-from selenium import webdriver
-from os import system, name
-from time import time, strftime, gmtime, sleep
-from selenium.webdriver.common.by import By
-import threading, warnings
-import undetected_chromedriver as uc
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from pystyle import *
-import undetected_chromedriver as uc
-from datetime import datetime
-from selenium.webdriver.chrome.options import Options
-import os
+try:
+    from selenium import webdriver
+    from os import system, name
+    from time import time, strftime, gmtime, sleep
+    from selenium.webdriver.common.by import By
+    import threading, warnings
+    import undetected_chromedriver as uc
+    from selenium.webdriver.support.ui import WebDriverWait
+    from selenium.webdriver.support import expected_conditions as EC
+    from pystyle import *
+    import undetected_chromedriver as uc
+    from datetime import datetime
+    from selenium.webdriver.chrome.options import Options
+    import os
+except:
+    os.system('pip install selenium')
+    os.system('pip install pystyle')
+    os.system('pip install undetected-chromedriver')
 
 warnings.filterwarnings("ignore")
 
