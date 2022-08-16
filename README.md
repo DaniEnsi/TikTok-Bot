@@ -15,6 +15,12 @@ Python script to automate the TikTok Account botting using zefoys website ```zef
 
 ✔ No Setup needed
 
+## 🚀・Ussage
+
+```
+python3 
+```
+
 ## 🎉・Upcoming/enhancements
 
 - 5 Stars - Allow for Like/Follower/Views Selection
