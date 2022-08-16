@@ -15,10 +15,10 @@ Python script to automate the TikTok Account botting using zefoys website ```zef
 
 ✔ No Setup needed
 
-## 🚀・Ussage
+## 🚀・Usage
 
 ```
-python3 
+> python3 tiktokviewbot.py
 ```
 
 ## 🎉・Upcoming/enhancements
