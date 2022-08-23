@@ -17,19 +17,26 @@ Python script to automate the TikTok Account botting using zefoys website ```zef
 
 ## 🚀・Usage
 
-```
-> python3 tiktokviewbot.py
-```
+### 📝<a href=V1/ReadMe.md >TokView V1 Instructions</a>
+
+### 📝<a href=V2/ReadMe.md >TokView V2 Instructions</a>
 
 ## 🎉・Upcoming/enhancements
 
-- 5 Stars - Allow for Like/Follower/Views Selection
+- 5 Stars ✔ - Allow for Like/Follower/Views Selection
 - 10 Stars - Improve Speed by using multiple drivers at once
 
 ## 💭・ChangeLog
 
 ```diff
-v0.1 ⋮ 2022-08-16
+v1 ⋮ 2022-08-16
 + Added Main Script
 + Improved Handeling
+
+v2 ⋮ 2022-08-23
++ Added V2
++ Like/Follow/... Selection
++ Improved RateLimit protection
++ Major Speed Improvements
 ```
+
