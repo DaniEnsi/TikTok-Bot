@@ -17,9 +17,9 @@ Python script to automate the TikTok Account botting using zefoys website ```zef
 
 ## 🚀・Usage
 
-### 📝<a href=V1/ReadMe.md >TokView V1 Instructions</a>
+### 📝<a href=TokViewV1/Instructions.md >TokView V1 Instructions</a>
 
-### 📝<a href=V2/ReadMe.md >TokView V2 Instructions</a>
+### 📝<a href=TokViewV2/Instructions.md >TokView V2 Instructions</a>
 
 ## 🎉・Upcoming/enhancements
 
